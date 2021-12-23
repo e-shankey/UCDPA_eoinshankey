@@ -1,0 +1,336 @@
+,artist,followers,genre,popularity,main_genre
+0,The Beatles,21400024,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",89,beatlesque
+1,Aphex Twin,822036,"['ambient', 'braindance', 'electronica', 'intelligent dance music', 'uk experimental electronic']",65,ambient
+2,alt-J,2934946,"['indie rock', 'modern rock']",74,indie rock
+3,Radiohead,6644420,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",81,alternative rock
+4,Phoebe Bridgers,979140,"['indie pop', 'la indie']",80,indie pop
+5,Gustavo Santaolalla,223408,"['argentine ambient', 'latin classical', 'latin soundtrack', 'soundtrack', 'video game music']",66,argentine ambient
+6,Alex G,224459,"['alternative rock', 'art pop', 'dream pop', 'indie garage rock', 'indie pop', 'indie rock', 'philly indie']",64,alternative rock
+7,Bonobo,1182029,"['downtempo', 'electronica', 'jazztronica', 'ninja', 'nu jazz', 'trip hop']",68,downtempo
+9,Metallica,19843157,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",84,hard rock
+10,LCD Soundsystem,899784,"['alternative dance', 'alternative rock', 'art pop', 'dance rock', 'dance-punk', 'electronic rock', 'electronica', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'rock']",64,alternative dance
+11,Original Broadway Cast of Hamilton,408043,"['broadway', 'hollywood', 'show tunes']",77,broadway
+12,Red Hot Chili Peppers,17223686,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",84,alternative rock
+13,Luke Kelly,64921,"['banjo', 'celtic', 'irish banjo', 'irish country', 'irish folk']",48,banjo
+14,Leslie Odom Jr.,206955,"['broadway', 'hollywood', 'show tunes', 'vocal jazz']",75,broadway
+15,Jack White,1182718,"['alternative rock', 'blues rock', 'garage rock', 'garage rock revival', 'modern blues rock', 'modern rock', 'punk blues', 'rock']",61,alternative rock
+16,Joyner Lucas,1820274,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",79,boston hip hop
+18,The Rolling Stones,11132140,"['british invasion', 'classic rock', 'rock']",81,british invasion
+19,Black Sabbath,5816435,"['album rock', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'rock', 'stoner rock', 'uk doom metal']",75,album rock
+21,Biffy Clyro,658631,"['modern alternative rock', 'modern rock', 'rock', 'scottish rock']",65,modern alternative rock
+22,INXS,1914545,"['australian rock', 'classic rock', 'dance rock', 'funk rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",71,australian rock
+23,John Mayer,5347989,"['neo mellow', 'pop rock', 'singer-songwriter']",81,neo mellow
+27,Bon Iver,3118217,"['eau claire indie', 'indie folk', 'melancholia']",79,eau claire indie
+33,Julien Baker,281170,"['ambient folk', 'art pop', 'indie folk', 'indie pop', 'indie rock']",62,ambient folk
+36,Fleetwood Mac,7558490,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",82,album rock
+39,Russ Millions,274401,['uk drill'],74,uk drill
+40,Her's,433471,"['indie garage rock', 'indie pop', 'liverpool indie', 'modern rock']",66,indie garage rock
+43,Freddie Gibbs,877395,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",72,alternative hip hop
+44,Vulfpeck,695331,"['ann arbor indie', 'funk rock', 'instrumental funk']",63,ann arbor indie
+46,Louis Prince,4191,['experimental pop'],34,experimental pop
+59,Dr. Dre,6278746,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",81,g funk
+61,Don McLean,692656,"['adult standards', 'classic rock', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",67,adult standards
+62,Elbow,444154,"['britpop', 'indie rock', 'modern rock', 'rock']",61,britpop
+64,Ariel Pink,298471,"['art pop', 'chillwave', 'dream pop', 'experimental pop', 'freak folk', 'la indie', 'neo-psychedelic', 'new rave', 'new weird america']",57,art pop
+65,Radical Face,359888,"['indie folk', 'jacksonville indie', 'stomp and holler']",62,indie folk
+69,Clairo,2978640,"['bedroom pop', 'indie pop', 'pop']",81,bedroom pop
+70,Ben Howard,1923913,"['british singer-songwriter', 'folk-pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",70,british singer-songwriter
+71,Blanco Brown,127250,"['black americana', 'country rap']",64,black americana
+72,Ludovico Einaudi,2529481,"['bow pop', 'compositional ambient', 'neo-classical']",82,bow pop
+73,The Knife,436084,"['alternative dance', 'art pop', 'dream pop', 'electroclash', 'electronica', 'electropop', 'gothenburg indie', 'neo-synthpop', 'new rave', 'swedish electropop', 'swedish synthpop']",54,alternative dance
+74,Y2K,275429,['pop rap'],68,pop rap
+75,Kendrick Lamar,18914541,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",89,conscious hip hop
+77,Newton Faulkner,198944,['folk-pop'],53,folk-pop
+78,Queens of the Stone Age,2861215,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'nu metal', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']",72,alternative metal
+79,Mykola Dmytrovych Leontovych,2858,"['post-romantic era', 'ukrainian classical']",69,post-romantic era
+80,Hermitage Green,28836,"['irish rock', 'limerick indie']",40,irish rock
+81,Theo Katzman,56884,['retro soul'],51,retro soul
+83,Tobiahs,4935,['aussietronica'],46,aussietronica
+84,BAYNK,96139,"['edm', 'indie soul', 'tropical house', 'vapor soul']",67,edm
+85,FEMME,8582,['uk alternative pop'],40,uk alternative pop
+86,What So Not,287948,"['aussietronica', 'edm', 'electro house', 'electronic trap', 'electropop', 'escape room', 'future bass', 'vapor twitch']",61,aussietronica
+87,M83,1989678,"['french shoegaze', 'french synthpop', 'indietronica', 'metropopolis', 'neo-synthpop']",72,french shoegaze
+88,JAY-Z,6821205,"['east coast hip hop', 'hip hop', 'rap']",86,east coast hip hop
+90,Tory Lanez,4087571,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",85,canadian hip hop
+91,Pop Smoke,8560667,['brooklyn drill'],89,brooklyn drill
+92,Jay Gwuapo,112378,"['brooklyn drill', 'nyc rap']",52,brooklyn drill
+93,2 Chainz,6792665,"['atl hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,atl hip hop
+94,Headie One,360888,['uk hip hop'],72,uk hip hop
+95,Skepta,987390,"['birmingham grime', 'grime', 'instrumental grime', 'rap']",76,birmingham grime
+96,Dizzee Rascal,382040,"['bassline', 'grime', 'instrumental grime', 'pop rap']",67,bassline
+97,50 Cent,8181674,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",84,east coast hip hop
+99,Skindred,347585,"['alternative metal', 'comic', 'industrial metal', 'nu metal', 'rap metal', 'rap rock', 'reggae fusion', 'welsh metal', 'welsh rock']",54,alternative metal
+100,INSIDEAWAVE,338,['dublin indie'],0,dublin indie
+101,Owl City,2171752,"['indietronica', 'modern rock', 'pop', 'pop rock', 'post-teen pop']",73,indietronica
+102,Josh Turner,2198294,"['contemporary country', 'country', 'country road', 'modern country rock']",68,contemporary country
+103,French Montana,4244081,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,hip hop
+104,TOTO,2108895,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",75,album rock
+105,Sam Robs,1370,['pop dance'],50,pop dance
+106,Kanye West,15914320,"['chicago rap', 'rap']",94,chicago rap
+107,Kenny Rogers,1864315,"['adult standards', 'classic country pop', 'country', 'mellow gold', 'nashville sound', 'soft rock']",72,adult standards
+108,Tame Impala,5292038,"['australian psych', 'neo-psychedelic']",81,australian psych
+109,Drake,59556789,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",98,canadian hip hop
+110,Childish Gambino,8613835,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap']",80,atl hip hop
+111,José González,971979,"['gothenburg indie', 'indie folk', 'stomp and holler', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",68,gothenburg indie
+112,The Stone Roses,1171548,"['alternative rock', 'britpop', 'dance rock', 'madchester', 'modern rock', 'rock']",64,alternative rock
+113,Mac DeMarco,2259017,"['edmonton indie', 'lo-fi indie']",80,edmonton indie
+114,Bombay Bicycle Club,795891,"['alternative dance', 'british indie rock', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'rock', 'stomp and holler']",64,alternative dance
+115,Fleet Foxes,1170998,"['folk', 'indie folk', 'indie pop', 'indie rock', 'seattle indie', 'stomp and holler']",69,folk
+116,Black Rebel Motorcycle Club,486015,"['alternative rock', 'blues rock', 'garage rock', 'garage rock revival', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'permanent wave', 'punk blues', 'rock']",58,alternative rock
+117,The Vaccines,686136,"['indie rock', 'modern alternative rock', 'modern rock', 'rock']",62,indie rock
+118,Arctic Monkeys,13307389,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",87,garage rock
+119,Foo Fighters,9368928,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",80,alternative metal
+121,The Coral,215977,"['britpop', 'indie rock', 'modern rock', 'rock']",57,britpop
+122,Kasabian,1614024,"['alternative rock', 'britpop', 'garage rock', 'indie rock', 'leicester indie', 'modern rock', 'rock']",65,alternative rock
+123,Arcade Fire,2010031,"['alternative dance', 'alternative rock', 'baroque pop', 'canadian indie', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'permanent wave', 'quebec indie', 'rock']",68,alternative dance
+124,Joy Division,1794950,"['alternative rock', 'madchester', 'new wave', 'post-punk', 'rock', 'uk post-punk']",67,alternative rock
+125,The Smiths,2887902,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",75,madchester
+127,The Wombats,947367,"['liverpool indie', 'modern alternative rock', 'modern rock', 'rock']",70,liverpool indie
+128,The Futureheads,85075,"['alternative dance', 'british indie rock', 'dance-punk', 'indie rock', 'modern rock', 'new rave', 'north east england indie']",46,alternative dance
+130,Razorlight,467276,"['britpop', 'modern rock', 'rock']",62,britpop
+132,The Who,4305581,"['album rock', 'art rock', 'blues rock', 'british invasion', 'classic rock', 'hard rock', 'mellow gold', 'rock']",71,album rock
+134,The Smashing Pumpkins,3656453,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'pop rock', 'rock']",74,alternative metal
+135,Franz Ferdinand,2156682,"['alternative dance', 'alternative rock', 'dance rock', 'indie rock', 'modern rock', 'new rave', 'rock', 'scottish rock']",69,alternative dance
+136,Oasis,6872483,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",79,beatlesque
+137,The Cribs,171141,"['british indie rock', 'britpop', 'indie rock', 'modern alternative rock', 'modern rock', 'new rave', 'west yorkshire indie']",48,british indie rock
+142,The Hives,632256,"['alternative rock', 'garage rock', 'garage rock revival', 'modern rock', 'new rave', 'rock', 'swedish garage rock', 'swedish hard rock', 'swedish indie rock']",63,alternative rock
+143,Vampire Weekend,1766070,"['baroque pop', 'indie rock', 'modern rock']",70,baroque pop
+144,The Strokes,4093912,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",79,alternative rock
+145,Pixies,2058927,"['alternative rock', 'boston rock', 'modern rock', 'permanent wave', 'rock']",72,alternative rock
+146,The National,1358586,"['indie rock', 'modern rock', 'stomp and holler']",69,indie rock
+148,MGMT,2400128,"['alternative dance', 'indie rock', 'indietronica', 'modern rock', 'rock']",78,alternative dance
+154,Blur,2350557,"['alternative rock', 'britpop', 'madchester', 'modern rock', 'permanent wave', 'pop rock', 'rock']",71,alternative rock
+157,The Raconteurs,776592,"['alternative rock', 'garage rock', 'garage rock revival', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'rock', 'supergroup']",63,alternative rock
+158,Jimi Hendrix,5344809,"['acid rock', 'album rock', 'blues rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']",74,acid rock
+161,Grima x Azza,11583,['bass house'],48,bass house
+162,The Game,3696305,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",75,gangster rap
+163,Ricky Desktop,57971,['viral rap'],60,viral rap
+164,DaBaby,8679786,"['north carolina hip hop', 'rap']",89,north carolina hip hop
+165,KBFR,7153,['viral rap'],43,viral rap
+166,Jason Derulo,10475665,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",85,dance pop
+167,Enya,1644542,"['celtic', 'middle earth']",75,celtic
+168,BLIND.SEE,24205,['viral rap'],47,viral rap
+169,AWOLNATION,2019420,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",67,la indie
+170,The Brian Jonestown Massacre,279364,"['alternative rock', 'bay area indie', 'chamber psych', 'freak folk', 'garage rock', 'indie rock', 'neo-psychedelic', 'shoegaze']",57,alternative rock
+172,Jackson Browne,977129,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",65,album rock
+173,Guns N' Roses,22862685,"['glam metal', 'hard rock', 'rock']",81,glam metal
+174,The Fray,3503377,"['neo mellow', 'piano rock', 'pop', 'pop rock']",73,neo mellow
+176,Daði Freyr,179850,"['icelandic pop', 'sunnlensk tonlist']",60,icelandic pop
+178,DJ Shadow,495891,"['big beat', 'downtempo', 'electronica', 'hip hop', 'trip hop', 'turntablism']",65,big beat
+179,Lil Peep,8336317,"['emo rap', 'lgbtq+ hip hop']",87,emo rap
+182,Bon Jovi,10188852,"['glam metal', 'rock']",80,glam metal
+183,Tears For Fears,2205369,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock', 'sophisti-pop', 'synthpop']",73,new romantic
+185,Two Feet,1496112,"['indie poptimism', 'modern rock', 'pop']",76,indie poptimism
+186,David Bowie,7555234,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",81,art rock
+187,Dave Matthews Band,1637190,"['jam band', 'neo mellow', 'pop rock']",67,jam band
+188,Here We Go Magic,39243,"['baroque pop', 'brooklyn indie', 'freak folk']",37,baroque pop
+191,Zac Brown Band,2892292,"['contemporary country', 'country', 'country road', 'modern country rock']",74,contemporary country
+193,Omega,26535,"['classic hungarian pop', 'classic hungarian rock']",48,classic hungarian pop
+194,DMA'S,206586,"['australian indie', 'modern rock']",59,australian indie
+196,Neil Young,2408799,"['album rock', 'canadian singer-songwriter', 'classic canadian rock', 'classic rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter']",72,album rock
+197,Pink Floyd,15990599,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",82,album rock
+201,Liam Clancy,18660,"['celtic', 'irish country', 'irish folk']",41,celtic
+202,Sheck Wes,1206565,"['rap', 'trap', 'underground hip hop', 'vapor trap']",67,rap
+203,Christy Moore,182680,"['celtic', 'irish folk']",55,celtic
+205,The Wolfe Tones,130549,"['celtic', 'irish folk']",53,celtic
+210,Aslan,26800,['irish rock'],40,irish rock
+216,The Dubliners,319755,"['celtic', 'irish folk']",58,celtic
+217,Snow Patrol,2434603,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock', 'rock']",71,irish rock
+220,Shaggy,1639194,"['pop rap', 'reggae fusion']",75,pop rap
+221,Travis Scott,19260632,"['rap', 'slap house']",93,rap
+224,Billie Eilish,54067437,"['art pop', 'electropop', 'pop']",93,art pop
+225,Powpig,2734,['irish indie rock'],17,irish indie rock
+226,Junior Brother,6362,['irish singer-songwriter'],24,irish singer-songwriter
+230,Boards of Canada,482372,"['ambient', 'electronica', 'intelligent dance music', 'microhouse', 'scottish electronic', 'trip hop']",59,ambient
+231,Stevie Nicks,872339,"['album rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",69,album rock
+232,Saint Sister,24581,['irish indie'],44,irish indie
+244,Jamie xx,679052,"['electronica', 'future garage', 'new rave']",63,electronica
+247,ZHU,739111,"['edm', 'electro house']",71,edm
+249,Simple Minds,1429592,"['art rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",69,art rock
+250,Foals,1233572,"['alternative dance', 'indie rock', 'modern rock', 'new rave', 'oxford indie', 'rock']",68,alternative dance
+260,The xx,3786322,"['downtempo', 'dream pop', 'indietronica']",70,downtempo
+271,Eminem,50421517,"['detroit hip hop', 'hip hop', 'rap']",93,detroit hip hop
+275,DJ Blyatman,187881,"['hard bass', 'russian rave']",63,hard bass
+276,The Devlins,4779,['irish rock'],30,irish rock
+277,Joey Bada$$,2400070,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",76,conscious hip hop
+279,Beck,1297924,"['alternative rock', 'anti-folk', 'indie rock', 'modern rock', 'permanent wave', 'rock']",69,alternative rock
+280,Semisonic,346690,['pop rock'],61,pop rock
+281,The Doors,6340705,"['acid rock', 'classic rock', 'psychedelic rock', 'rock']",76,acid rock
+282,Stromae,1972068,"['belgian pop', 'g-house']",75,belgian pop
+283,Meek Mill,5679491,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",82,hip hop
+284,Lil Baby,9024219,"['atl hip hop', 'atl trap', 'rap', 'trap']",92,atl hip hop
+285,Jeremih,5450576,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",79,chicago rap
+286,Gucci Mane,4094642,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,atl hip hop
+287,XXXTENTACION,33101522,"['emo rap', 'miami hip hop']",91,emo rap
+288,Lil Pump,7853996,"['emo rap', 'miami hip hop', 'rap', 'social media pop', 'trap']",72,emo rap
+314,Dave,1667244,['uk hip hop'],79,uk hip hop
+326,John Williams,1066399,['soundtrack'],81,soundtrack
+327,Rory Gallagher,320383,"['album rock', 'blues', 'blues rock', 'british blues', 'classic rock', 'country rock', 'electric blues', 'hard rock', 'modern blues', 'rock']",55,album rock
+330,Nick Cave & The Bad Seeds,1112324,"['art rock', 'permanent wave']",67,art rock
+342,ATB,316032,"['german dance', 'german techno', 'german trance', 'trance']",71,german dance
+343,Elton John,8358586,"['glam rock', 'mellow gold', 'piano rock']",90,glam rock
+344,Moby,1575104,"['downtempo', 'electronica']",71,downtempo
+347,Gorillaz,7985190,['alternative hip hop'],82,alternative hip hop
+358,Villagers,206068,"['chamber pop', 'indie folk', 'indie rock', 'stomp and holler']",61,chamber pop
+359,Portico Quartet,148537,"['british jazz', 'compositional ambient', 'contemporary jazz', 'electronica', 'indie jazz', 'jazz quartet', 'neo-classical', 'new tribe', 'nu jazz']",53,british jazz
+372,Metronomy,880371,"['alternative dance', 'electronica', 'electropop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'socal pop punk']",65,alternative dance
+384,Hans Zimmer,2781534,"['german soundtrack', 'soundtrack']",80,german soundtrack
+399,BROCKHAMPTON,1900468,"['boy band', 'hip hop', 'pop', 'rap']",74,boy band
+456,The Cranberries,2690090,"['irish rock', 'pop rock', 'rock']",75,irish rock
+457,Migos,11984178,"['atl hip hop', 'pop rap', 'rap', 'trap']",82,atl hip hop
+459,Passage,55,[],1,
+460,J. Cole,15300257,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",89,conscious hip hop
+463,Gary Jules,72466,['neo mellow'],55,neo mellow
+465,A$AP Mob,1827007,"['hip hop', 'rap', 'southern hip hop', 'trap', 'vapor trap']",65,hip hop
+466,Grizzly Bear,794861,"['alternative dance', 'art pop', 'baroque pop', 'brooklyn indie', 'chillwave', 'dream pop', 'freak folk', 'indie pop', 'indie rock', 'modern rock', 'new weird america', 'stomp and holler']",62,alternative dance
+488,Planet Funk,46942,"['big beat', 'electronic rock']",48,big beat
+489,The La's,158371,['britpop'],57,britpop
+490,Ryan Adams,528442,"['alternative country', 'neo mellow', 'new americana', 'pop rock', 'roots rock', 'singer-songwriter', 'stomp and holler']",61,alternative country
+491,Kyle Dixon & Michael Stein,77140,"['horror synth', 'soundtrack']",56,horror synth
+493,Elvis Presley,6105243,"['adult standards', 'rock-and-roll', 'rockabilly']",83,adult standards
+494,Pet Shop Boys,1325812,"['art pop', 'dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",69,art pop
+496,"Tyler, The Creator",7565548,"['hip hop', 'rap']",88,hip hop
+497,Post Malone,35238471,"['dfw rap', 'melodic rap', 'rap']",92,dfw rap
+498,DVBBS,950608,"['canadian electronic', 'dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'slap house', 'tropical house']",69,canadian electronic
+499,Boombox Cartel,192625,"['bass trap', 'edm', 'electro house', 'electronic trap', 'vapor twitch']",57,bass trap
+500,Kansas,1145251,"['album rock', 'art rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",68,album rock
+501,Enigma,673050,"['downtempo', 'new age']",64,downtempo
+502,Muse,6763123,"['alternative rock', 'modern rock', 'permanent wave', 'rock']",78,alternative rock
+504,Big Shaq,322927,['london rap'],52,london rap
+505,Gigi D'Agostino,603622,"['eurodance', 'europop', 'italo dance']",72,eurodance
+506,Boston,1993975,"['album rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",69,album rock
+540,Giggs,401569,"['grime', 'london rap', 'uk alternative hip hop', 'uk hip hop']",66,grime
+541,Alex & Echoes,388,['irish pop'],6,irish pop
+543,The Dig,23227,[],40,
+546,Bell X1,46771,"['irish pop', 'irish rock', 'melancholia']",43,irish pop
+549,Daithí,12308,['irish pop'],37,irish pop
+553,Anderson .Paak,2054585,['escape room'],87,escape room
+555,Chance the Rapper,5495332,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",80,chicago rap
+556,Portico,26116,['downtempo'],25,downtempo
+558,Blue Swede,84180,['classic swedish pop'],61,classic swedish pop
+571,All Tvvins,23144,['irish pop'],36,irish pop
+574,Lisa Gerrard,139807,"['ethereal wave', 'neoclassical darkwave', 'oceania soundtrack', 'soundtrack']",66,ethereal wave
+587,Klaus Badelt,98250,"['german soundtrack', 'soundtrack']",64,german soundtrack
+599,Jeff Rona,2019,[],36,
+607,Iggy Pop,1265885,"['alternative rock', 'classic rock', 'glam rock', 'new wave', 'permanent wave', 'post-punk', 'protopunk', 'punk', 'rock']",66,alternative rock
+624,The Shins,1080732,"['albuquerque indie', 'alternative rock', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'pop rock', 'portland indie', 'rock', 'stomp and holler']",64,albuquerque indie
+625,Ed Sheeran,89560714,"['pop', 'uk pop']",96,pop
+627,Deep Blue Something,49318,['pop rock'],57,pop rock
+628,The Cure,3477561,"['new wave', 'permanent wave', 'rock', 'uk post-punk']",77,new wave
+632,The Clash,2233131,"['classic rock', 'permanent wave', 'punk', 'rock']",72,classic rock
+636,Justin Bieber,54346303,"['canadian pop', 'pop']",97,canadian pop
+638,Desiigner,3292552,"['pop rap', 'rap', 'trap', 'viral trap']",69,pop rap
+639,The Prodigy,2376113,"['big beat', 'breakbeat', 'dance rock', 'hardcore techno', 'rave']",68,big beat
+667,Gossip,305687,"['alternative dance', 'electropop', 'new rave', 'olympia wa indie']",53,alternative dance
+668,Gnarls Barkley,427867,"['atl hip hop', 'neo soul']",65,atl hip hop
+748,New Order,1613162,"['art rock', 'dance rock', 'madchester', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'post-punk', 'rock', 'synthpop', 'uk post-punk']",69,art rock
+749,Emily Haines & The Soft Skeleton,38290,['indie pop'],35,indie pop
+750,Rae Sremmurd,6668780,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",78,hip hop
+751,The Last Shadow Puppets,824313,"['alternative rock', 'baroque pop', 'indie rock', 'modern rock', 'rock', 'sheffield indie']",63,alternative rock
+762,Fetty Wap,4204474,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",75,new jersey rap
+763,Jodie Mitchell,2084,[],27,
+764,Men Without Hats,158791,"['classic canadian rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",57,classic canadian rock
+765,Local Natives,584435,"['chillwave', 'indie folk', 'indie pop', 'indie rock', 'la indie', 'modern rock', 'pop rock', 'stomp and holler']",64,chillwave
+800,James Vincent McMorrow,567263,"['indie folk', 'irish singer-songwriter', 'neo mellow']",63,indie folk
+821,Funeral Suits,43626,['shimmer pop'],36,shimmer pop
+832,EL VY,66974,[],37,
+843,Deep Sea Diver,34690,"['indie surf', 'seattle indie']",44,indie surf
+852,Damien Rice,980885,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",64,acoustic pop
+878,Broken Bells,513621,"['alternative dance', 'alternative rock', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",61,alternative dance
+907,Best Coast,298033,"['indie pop', 'indie rock', 'indie surf', 'la indie', 'metropopolis']",52,indie pop
+919,The Magic Numbers,78432,[],44,
+933,The Kills,618405,"['alternative dance', 'alternative rock', 'dance-punk', 'garage rock', 'garage rock revival', 'indie rock', 'modern blues rock', 'modern rock', 'new rave', 'rock']",55,alternative dance
+934,The Black Keys,3593491,"['alternative rock', 'blues rock', 'garage rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'roots rock']",74,alternative rock
+935,Mr Hudson,23247,[],60,
+950,Earl Sweatshirt,1634765,"['alternative hip hop', 'experimental hip hop', 'hip hop', 'rap', 'underground hip hop']",73,alternative hip hop
+951,Little Green Cars,59938,"['irish rock', 'melancholia', 'metropopolis', 'shimmer pop', 'shiver pop', 'stomp and holler']",40,irish rock
+963,Jimmy Eat World,1240303,"['alternative rock', 'emo', 'modern power pop', 'modern rock', 'pop punk', 'pop rock', 'rock']",70,alternative rock
+977,Stereophonics,1229295,"['britpop', 'modern rock', 'pop rock', 'rock', 'welsh rock']",67,britpop
+989,Led Zeppelin,11578146,"['album rock', 'classic rock', 'hard rock', 'rock']",80,album rock
+1031,The Killers,6312929,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",80,alternative rock
+1032,The Libertines,735680,"['alternative rock', 'britpop', 'garage rock', 'garage rock revival', 'indie rock', 'modern rock', 'rock']",60,alternative rock
+1033,The Automatic,21246,['welsh rock'],17,welsh rock
+1035,DBFC,7872,['french indie pop'],30,french indie pop
+1037,Johnny Cash,5042614,"['arkansas country', 'outlaw country']",78,arkansas country
+1039,Kings of Leon,4891789,"['modern rock', 'rock']",77,modern rock
+1040,Sweet,338292,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",62,album rock
+1055,The White Stripes,2580217,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'modern rock', 'permanent wave', 'punk blues', 'rock']",74,alternative rock
+1068,U2,9133335,"['irish rock', 'permanent wave', 'rock']",81,irish rock
+1069,The Temper Trap,631478,"['alternative dance', 'australian indie', 'indie rock', 'modern rock', 'pop rock']",63,alternative dance
+1070,The Surfaris,30945,['surf music'],44,surf music
+1103,Simon & Garfunkel,3790924,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock']",74,classic rock
+1125,Paul Simon,1762351,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",71,classic rock
+1139,Brave Giant,9441,['irish indie'],33,irish indie
+1192,Link Wray,79100,"['cosmic american', 'native american', 'punk blues', 'rock-and-roll', 'rockabilly', 'surf music']",49,cosmic american
+1193,Bloc Party,984856,"['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'modern rock', 'new rave', 'rock']",65,alternative dance
+1239,Chet Faker,240515,"['art pop', 'indietronica']",66,art pop
+1241,The Cinematic Orchestra,543300,"['downtempo', 'electronica', 'ninja', 'nu jazz']",66,downtempo
+1243,Sticky Fingers,839062,"['australian reggae fusion', 'reggae fusion']",69,australian reggae fusion
+1244,Nirvana,14224669,"['alternative rock', 'grunge', 'permanent wave', 'rock']",84,alternative rock
+1247,Counting Crows,1405141,"['alternative rock', 'neo mellow', 'pop rock', 'rock']",70,alternative rock
+1248,Paolo Nutini,1085476,"['british soul', 'neo mellow', 'scottish singer-songwriter']",66,british soul
+1249,Bob Marley & The Wailers,10175844,"['reggae', 'roots reggae']",80,reggae
+1250,Wheatus,110834,['pop rock'],62,pop rock
+1251,Thin Lizzy,962583,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'irish rock', 'metal', 'rock']",65,album rock
+1252,Marty Mone,28048,['irish country'],47,irish country
+1254,Bob Dylan,5422553,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",76,album rock
+1255,The Animals,1913461,"['album rock', 'blues rock', 'british invasion', 'classic rock', 'folk rock', 'protopunk', 'psychedelic rock', 'rock']",68,album rock
+1256,Slipknot,7871205,"['alternative metal', 'nu metal', 'rap metal']",80,alternative metal
+1286,Major Lazer,6252261,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap', 'tropical house']",79,dance pop
+1300,Louis The Child,428345,"['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'tropical house']",69,edm
+1301,AC/DC,21654620,"['australian rock', 'hard rock', 'rock']",84,australian rock
+1303,Silentó,223180,"['chicago bop', 'pinoy hip hop']",53,chicago bop
+1304,The Weeknd,39722680,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,canadian contemporary r&b
+1306,Adele,32236722,"['british soul', 'pop', 'pop soul', 'uk pop']",96,british soul
+1309,The Beach Boys,3425106,"['baroque pop', 'brill building pop', 'classic rock', 'psychedelic rock', 'rock', 'sunshine pop']",77,baroque pop
+1310,Eazy-E,3518756,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']",66,g funk
+1311,Wankelmut,106061,"['deep euro house', 'tropical house']",60,deep euro house
+1313,N.W.A.,3808561,"['conscious hip hop', 'gangster rap', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'rap', 'west coast rap']",68,conscious hip hop
+1314,The Dead Weather,375377,"['alternative rock', 'blues rock', 'garage rock', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'supergroup']",48,alternative rock
+1315,Eagles,7456692,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",79,album rock
+1347,The Maccabees,341981,"['alternative dance', 'british indie rock', 'indie rock', 'modern rock', 'new rave']",55,alternative dance
+1348,Nancy Sinatra,338510,['brill building pop'],67,brill building pop
+1396,A$AP Rocky,10341466,"['east coast hip hop', 'hip hop', 'rap', 'trap']",85,east coast hip hop
+1407,R.E.M.,3296789,"['alternative rock', 'athens indie', 'classic rock', 'permanent wave', 'pop rock', 'rock']",76,alternative rock
+1409,Odd Future,866575,"['hip hop', 'rap']",57,hip hop
+1416,Terror Squad,150902,"['bronx hip hop', 'hardcore hip hop']",55,bronx hip hop
+1417,Grits,71643,['christian hip hop'],58,christian hip hop
+1418,Interpol,1346690,"['alternative dance', 'alternative rock', 'indie rock', 'modern rock', 'new rave', 'rock']",67,alternative dance
+1421,Sia,21777087,"['australian dance', 'australian pop', 'pop']",90,australian dance
+1425,Drenge,53074,"['derby indie', 'english indie rock', 'garage rock revival', 'modern alternative rock']",35,derby indie
+1463,Jungle,693438,"['indie soul', 'uk contemporary r&b']",70,indie soul
+1465,Disclosure,1979347,"['house', 'pop', 'uk dance']",77,house
+1572,SBTRKT,614210,"['electronica', 'electropop', 'future garage', 'new rave']",54,electronica
+1596,Django Django,232571,"['alternative dance', 'chamber psych', 'electronic rock', 'electronica', 'indie rock', 'new rave', 'shimmer pop']",51,alternative dance
+1609,Underworld,487140,"['alternative dance', 'big beat', 'electronica', 'new rave']",59,alternative dance
+1621,Rage Against The Machine,4606732,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'nu metal', 'political hip hop', 'rap metal', 'rap rock', 'rock']",74,alternative metal
+1678,Tove Lo,2912813,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",78,art pop
+1707,Royal Blood,1369241,"['alternative rock', 'brighton indie', 'garage rock', 'modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'rock']",69,alternative rock
+1861,Various Artists,1398212,[],0,
+1865,Cage The Elephant,2732647,"['modern rock', 'punk blues', 'rock']",77,modern rock
+1873,James Brown,1840971,"['funk', 'motown', 'soul']",68,funk
+1874,Brother Dege,48043,"['gothic americana', 'lafayette indie', 'modern blues rock', 'rebel blues']",47,gothic americana
+1878,The Jackson 5,1198964,"['adult standards', 'motown', 'soul']",78,adult standards
+1879,Johnny Flynn,163476,"['indie folk', 'stomp and holler', 'uk americana']",53,indie folk
+1880,Generationals,135046,"['alternative dance', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new orleans indie', 'shimmer pop', 'stomp and holler']",53,alternative dance
+1886,Pearl Jam,7191645,"['grunge', 'permanent wave', 'rock']",78,grunge
+1901,Harry Chapin,258238,"['country rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",54,country rock
+1907,Peace,100265,"['birmingham indie', 'english indie rock', 'modern alternative rock', 'modern rock']",42,birmingham indie
+1931,Grimes,1539852,"['art pop', 'canadian electropop', 'chillwave', 'dance pop', 'electropop', 'grave wave', 'indietronica', 'metropopolis', 'pop']",71,art pop
+1950,Yeah Yeah Yeahs,1058813,"['alternative dance', 'alternative rock', 'dance-punk', 'garage rock', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'rock']",67,alternative dance
+1953,Massive Attack,1797861,"['big beat', 'downtempo', 'electronica', 'trip hop']",67,big beat
+1963,Calvin Harris,22364012,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop rap', 'progressive house', 'uk dance']",86,dance pop
+1964,YG,2731039,"['cali rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79,cali rap
+1967,Daft Punk,8469344,"['electro', 'filter house']",82,electro
+1968,Woodkid,678372,['chamber pop'],68,chamber pop
+1977,Chase & Status,598360,"['dancefloor dnb', 'drum and bass']",63,dancefloor dnb
+1980,Death In Vegas,119667,"['alternative dance', 'big beat', 'chamber psych', 'electronica', 'techno', 'trip hop']",48,alternative dance
+1983,Bastille,4899599,"['metropopolis', 'modern rock', 'pop', 'pop rock', 'tropical house']",79,metropopolis
+1988,Talking Heads,1735013,"['art punk', 'art rock', 'dance rock', 'funk rock', 'new wave', 'permanent wave', 'post-punk', 'rock', 'zolo']",71,art punk
+1994,The Police,4608853,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new wave', 'permanent wave', 'rock', 'soft rock']",77,album rock
+1995,Dropkick Murphys,1042553,"['boston punk', 'boston rock', 'celtic punk', 'celtic rock', 'punk', 'skate punk']",66,boston punk
+1997,John Frusciante,506851,"['acoustic rock', 'alternative rock', 'rock']",58,acoustic rock
+2000,Phoenix,1727553,"['alternative dance', 'indie rock', 'modern rock', 'new rave', 'pop rock', 'rock independant francais']",66,alternative dance
+2010,HAIM,1134274,"['art pop', 'dance pop', 'indie pop', 'metropopolis', 'pop rock']",70,art pop
+2018,Korn,5111902,"['alternative metal', 'funk metal', 'nu metal', 'rap metal', 'rock']",77,alternative metal
+2019,Fall Out Boy,9205487,"['emo', 'modern rock', 'rock']",81,emo
